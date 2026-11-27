@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+This repository also contains a small, static portfolio site. Open `index.html`
+in a browser, or serve the repository directory with `python3 -m http.server`
+and visit `http://localhost:8000`.
+
+The site's copy and links live in `index.html`; its styling is in `styles.css`.
+Update the portfolio sections as new projects and stories are ready to share.
+
 <!--
 **Tandumonium/tandumonium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
